@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="972a3173-93a3-434a-b9e8-4f72c9b792ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tIphK8oHSqIkPFsgEFLvK4yYlm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.otus.spring.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.spring.Main" />
+      <module name="SpringHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.spring.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionnaireServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.spring.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.otus.spring.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.otus.spring.service.QuestionnaireServiceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.QuestionnaireServiceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972a3173-93a3-434a-b9e8-4f72c9b792ca" name="Default Changelist" comment="" />
+      <created>1622466576531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622466576531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="82" y="397" key="#com.intellij.ide.util.MemberChooser" timestamp="1622543235577">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="82" y="397" key="#com.intellij.ide.util.MemberChooser/0.25.1680.962@0.25.1680.962" timestamp="1622543235577" />
+    <state x="82" y="400" key="#com.intellij.ide.util.MemberChooser/0.25.1680.965@0.25.1680.965" timestamp="1622467124602" />
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom" timestamp="1622552228027">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622552228027" />
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1622468727066" />
+    <state width="1358" height="237" key="GridCell.Tab.0.center" timestamp="1622552228026">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1622552228026" />
+    <state width="1358" height="237" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
+    <state width="1358" height="237" key="GridCell.Tab.0.left" timestamp="1622552228026">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1622552228026" />
+    <state width="1358" height="237" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1622468727064" />
+    <state width="1358" height="237" key="GridCell.Tab.0.right" timestamp="1622552228027">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1622552228027" />
+    <state width="1358" height="237" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
+    <state width="1358" height="294" key="GridCell.Tab.1.bottom" timestamp="1622546442776">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="294" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622546442776" />
+    <state width="1358" height="294" key="GridCell.Tab.1.center" timestamp="1622546442775">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="294" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1622546442775" />
+    <state width="1358" height="294" key="GridCell.Tab.1.left" timestamp="1622546442775">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="294" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1622546442775" />
+    <state width="1358" height="294" key="GridCell.Tab.1.right" timestamp="1622546442776">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1358" height="294" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1622546442776" />
+    <state x="513" y="226" key="Maven.ArtifactSearchDialog" timestamp="1622550462836">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="513" y="226" key="Maven.ArtifactSearchDialog/0.25.1680.962@0.25.1680.962" timestamp="1622550462836" />
+    <state x="753" y="298" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1622549856047">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="753" y="298" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1680.962@0.25.1680.962" timestamp="1622549856047" />
+    <state x="491" y="273" width="670" height="675" key="run.anything.popup" timestamp="1622546107618">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="491" y="273" width="670" height="675" key="run.anything.popup/0.25.1680.962@0.25.1680.962" timestamp="1622546107618" />
+    <state x="539" y="313" width="670" height="676" key="search.everywhere.popup" timestamp="1622468585242">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="539" y="313" width="670" height="676" key="search.everywhere.popup/0.25.1680.964@0.25.1680.964" timestamp="1622468585242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

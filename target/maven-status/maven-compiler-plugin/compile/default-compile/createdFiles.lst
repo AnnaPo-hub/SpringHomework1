@@ -1,0 +1,5 @@
+ru/otus/spring/dao/QuestionDao.class
+ru/otus/spring/service/QuestionnaireService.class
+ru/otus/spring/domain/Question.class
+ru/otus/spring/dao/QuestionDaoSimple.class
+ru/otus/spring/Main.class
