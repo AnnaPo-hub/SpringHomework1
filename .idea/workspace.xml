@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="972a3173-93a3-434a-b9e8-4f72c9b792ca" name="Default Changelist" comment="" />
+    <list default="true" id="972a3173-93a3-434a-b9e8-4f72c9b792ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDaoSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDaoSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/service/QuestionnaireService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/service/QuestionnaireService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/otus/spring/service/QuestionnaireServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/otus/spring/service/QuestionnaireServiceTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tIphK8oHSqIkPFsgEFLvK4yYlm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,13 +55,16 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.QuestionnaireServiceTest.shouldTestShowQuestionWasCalled">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.otus.spring.Main" />
       <module name="SpringHomework1" />
@@ -57,6 +74,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuestionnaireServiceTest.shouldTestShowQuestionWasCalled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringHomework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.spring.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.otus.spring.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.otus.spring.service.QuestionnaireServiceTest" />
+      <option name="METHOD_NAME" value="shouldTestShowQuestionWasCalled" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QuestionnaireServiceTest.shouldTestShowQuestionWasCalled" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.QuestionnaireServiceTest.test" />
       </list>
@@ -103,42 +137,42 @@
     </state>
     <state x="82" y="397" key="#com.intellij.ide.util.MemberChooser/0.25.1680.962@0.25.1680.962" timestamp="1622543235577" />
     <state x="82" y="400" key="#com.intellij.ide.util.MemberChooser/0.25.1680.965@0.25.1680.965" timestamp="1622467124602" />
-    <state width="1358" height="237" key="GridCell.Tab.0.bottom" timestamp="1622552228027">
+    <state width="1299" height="240" key="GridCell.Tab.0.bottom" timestamp="1622615628848">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622552228027" />
+    <state width="1299" height="240" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622615628848" />
     <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1622468727066" />
-    <state width="1358" height="237" key="GridCell.Tab.0.center" timestamp="1622552228026">
+    <state width="1299" height="240" key="GridCell.Tab.0.center" timestamp="1622615628847">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1622552228026" />
+    <state width="1299" height="240" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1622615628847" />
     <state width="1358" height="237" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
-    <state width="1358" height="237" key="GridCell.Tab.0.left" timestamp="1622552228026">
+    <state width="1299" height="240" key="GridCell.Tab.0.left" timestamp="1622615628847">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1622552228026" />
+    <state width="1299" height="240" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1622615628847" />
     <state width="1358" height="237" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1622468727064" />
-    <state width="1358" height="237" key="GridCell.Tab.0.right" timestamp="1622552228027">
+    <state width="1299" height="240" key="GridCell.Tab.0.right" timestamp="1622615628848">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1622552228027" />
+    <state width="1299" height="240" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1622615628848" />
     <state width="1358" height="237" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
-    <state width="1358" height="294" key="GridCell.Tab.1.bottom" timestamp="1622546442776">
+    <state width="1299" height="240" key="GridCell.Tab.1.bottom" timestamp="1622615629363">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="294" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622546442776" />
-    <state width="1358" height="294" key="GridCell.Tab.1.center" timestamp="1622546442775">
+    <state width="1299" height="240" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622615629363" />
+    <state width="1299" height="240" key="GridCell.Tab.1.center" timestamp="1622615629363">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="294" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1622546442775" />
-    <state width="1358" height="294" key="GridCell.Tab.1.left" timestamp="1622546442775">
+    <state width="1299" height="240" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1622615629363" />
+    <state width="1299" height="240" key="GridCell.Tab.1.left" timestamp="1622615629362">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="294" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1622546442775" />
-    <state width="1358" height="294" key="GridCell.Tab.1.right" timestamp="1622546442776">
+    <state width="1299" height="240" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1622615629362" />
+    <state width="1299" height="240" key="GridCell.Tab.1.right" timestamp="1622615629363">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1358" height="294" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1622546442776" />
+    <state width="1299" height="240" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1622615629363" />
     <state x="513" y="226" key="Maven.ArtifactSearchDialog" timestamp="1622550462836">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
@@ -173,6 +207,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,7 +1,7 @@
 package ru.otus.spring.service;
 
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import ru.otus.spring.dao.QuestionDaoSimple;
 
 import java.io.FileNotFoundException;
@@ -25,6 +25,4 @@ class QuestionnaireServiceTest {
        service.playQuestions();
        verify(dao,times(1)).showQuestion();
     }
-
-
 }
