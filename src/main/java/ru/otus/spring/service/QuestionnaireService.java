@@ -6,14 +6,10 @@ import java.io.FileNotFoundException;
 
 public class QuestionnaireService {
 
-    private QuestionDao dao;
+     private final QuestionDao dao;
 
     //IoC
     public QuestionnaireService(QuestionDao dao) {
-        this.dao = dao;
-    }
-
-    public void setDao(QuestionDao dao) {
         this.dao = dao;
     }
 
