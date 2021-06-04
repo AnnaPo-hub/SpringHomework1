@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972a3173-93a3-434a-b9e8-4f72c9b792ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/spring/service/QuestionnaireService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/spring/service/QuestionnaireService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/otus/spring/service/QuestionnaireServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDaoSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/dao/QuestionDaoSimple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/otus/spring/service/QuestionnaireService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/otus/spring/service/QuestionnaireService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/otus/spring/service/QuestionnaireServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/otus/spring/service/QuestionnaireServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="73047b6d-dfb2-4f00-be86-5db43438e3af" />
   </component>
   <component name="ProjectId" id="1tIphK8oHSqIkPFsgEFLvK4yYlm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -140,42 +133,50 @@
     </state>
     <state x="82" y="397" key="#com.intellij.ide.util.MemberChooser/0.25.1680.962@0.25.1680.962" timestamp="1622543235577" />
     <state x="82" y="400" key="#com.intellij.ide.util.MemberChooser/0.25.1680.965@0.25.1680.965" timestamp="1622467124602" />
-    <state width="1299" height="240" key="GridCell.Tab.0.bottom" timestamp="1622616700855">
+    <state x="644" y="251" key="Github.CreatePullRequestDialog" timestamp="1622807698229">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622616700855" />
+    <state x="644" y="251" key="Github.CreatePullRequestDialog/0.25.1680.962@0.25.1680.962" timestamp="1622807698229" />
+    <state x="739" y="508" key="Github.Dialog.Accounts.Choose" timestamp="1622806321359">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="739" y="508" key="Github.Dialog.Accounts.Choose/0.25.1680.962@0.25.1680.962" timestamp="1622806321359" />
+    <state width="1299" height="240" key="GridCell.Tab.0.bottom" timestamp="1622807748342">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1299" height="240" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622807748342" />
     <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1622468727066" />
-    <state width="1299" height="240" key="GridCell.Tab.0.center" timestamp="1622616700854">
+    <state width="1299" height="240" key="GridCell.Tab.0.center" timestamp="1622807748341">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1622616700854" />
+    <state width="1299" height="240" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1622807748341" />
     <state width="1358" height="237" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
-    <state width="1299" height="240" key="GridCell.Tab.0.left" timestamp="1622616700854">
+    <state width="1299" height="240" key="GridCell.Tab.0.left" timestamp="1622807748340">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1622616700854" />
+    <state width="1299" height="240" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1622807748340" />
     <state width="1358" height="237" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1622468727064" />
-    <state width="1299" height="240" key="GridCell.Tab.0.right" timestamp="1622616700855">
+    <state width="1299" height="240" key="GridCell.Tab.0.right" timestamp="1622807748341">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1622616700855" />
+    <state width="1299" height="240" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1622807748341" />
     <state width="1358" height="237" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1622468727065" />
-    <state width="1299" height="240" key="GridCell.Tab.1.bottom" timestamp="1622616700856">
+    <state width="1299" height="240" key="GridCell.Tab.1.bottom" timestamp="1622807748343">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622616700856" />
-    <state width="1299" height="240" key="GridCell.Tab.1.center" timestamp="1622616700856">
+    <state width="1299" height="240" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1622807748343" />
+    <state width="1299" height="240" key="GridCell.Tab.1.center" timestamp="1622807748343">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1622616700856" />
-    <state width="1299" height="240" key="GridCell.Tab.1.left" timestamp="1622616700855">
+    <state width="1299" height="240" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1622807748343" />
+    <state width="1299" height="240" key="GridCell.Tab.1.left" timestamp="1622807748342">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1622616700855" />
-    <state width="1299" height="240" key="GridCell.Tab.1.right" timestamp="1622616700856">
+    <state width="1299" height="240" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1622807748342" />
+    <state width="1299" height="240" key="GridCell.Tab.1.right" timestamp="1622807748343">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1299" height="240" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1622616700856" />
+    <state width="1299" height="240" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1622807748343" />
     <state x="513" y="226" key="Maven.ArtifactSearchDialog" timestamp="1622550462836">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
@@ -184,6 +185,10 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="753" y="298" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1680.962@0.25.1680.962" timestamp="1622549856047" />
+    <state x="312" y="369" key="new project wizard" timestamp="1622806768454">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="312" y="369" key="new project wizard/0.25.1680.962@0.25.1680.962" timestamp="1622806768454" />
     <state x="491" y="273" width="670" height="675" key="run.anything.popup" timestamp="1622546107618">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
